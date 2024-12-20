@@ -1,2 +1,2 @@
-# Databases-Lab
-Laboratorio de Bases de Datos
+# Laboratorio de Bases de Datos
+Entrega final del Laboratorio de Bases de Datos
